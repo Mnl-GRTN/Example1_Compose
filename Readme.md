@@ -1,0 +1,2 @@
+# Example 1 Project!
+This initiative focuses on creating a simple layout in Kotlin (Jetpack Compose). I'm implementing the same application in four programming languages: Flutter, React Native, Kotlin (XML), and Kotlin (Compose). The primary objective is to learn and compare the development process and outcomes across different technologies.
